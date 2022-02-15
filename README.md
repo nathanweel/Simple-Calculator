@@ -1,4 +1,4 @@
-# Calculator
+# Simple Calculator
 A small calculator program for the command line/prompt.
 
 # Simplistic
